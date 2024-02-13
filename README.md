@@ -1,6 +1,6 @@
 👋 Hi there,
 
-I'm Rahul, a Full-Stack Web Developer & Web Designer based in 🚩 Daman, India,
+I'm Rahul, a Full-Stack Web Developer, Content Writer & SEO Expert based in 🚩 Daman, India,
 
 - 🎨 I design for a living and this is [my portfolio](https://rahulyogi.com/portfolio/).
 - ✈️ I love traveling; it's a good excuse for [taking pictures](https://www.instagram.com/mr_rebillion/).
